@@ -15,12 +15,12 @@ PHPMYADMIN=5.2.0
 
 preflight(){
     output "Script de Instalação e Atualização do Pterodactyl."
-	warn "http://github.com/KoddyDev"
+	warn "https://github.com/S0S2-DEV"
     warn ""
     warn "Informações do Script"
 	warn ""
 	warn "Versão: " && output " 1.0"
-	warn "Autor: " && output "KoddyDev#5439"
+	warn "Autor: " && output "S0S2#0001"
 	warn ""
     warn ""
     warn ""
