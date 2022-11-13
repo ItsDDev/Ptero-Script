@@ -20,7 +20,7 @@ preflight(){
     warn "Informações do Script"
 	warn ""
 	warn "Versão: " && output " 1.0"
-	warn "Autor: " && output "S0S2#0001"
+	warn "Autor: " && output "ItsD#0001"
 	warn ""
     warn ""
     warn ""
