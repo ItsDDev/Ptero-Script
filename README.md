@@ -6,6 +6,6 @@ Comandos:
 
 2: apt install curl
 
-3: bash <(curl -s https://raw.githubusercontent.com/ItsD-Dev/Ptero-Script/main/run.sh)
+3: bash <(curl -s https://raw.githubusercontent.com/ItsDDev/Ptero-Script/main/run.sh)
 
 4: sudo apt update
