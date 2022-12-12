@@ -7,15 +7,15 @@ warn(){
     echo -e '\e[31m'$1'\e[0m';
 }
 
-PANEL=v1.10.4
-WINGS=v1.7.2
+PANEL=v1.11.1
+WINGS=v1.11.0
 PANEL_LEGACY=v0.7.19
 DAEMON_LEGACY=v0.6.13
 PHPMYADMIN=5.2.0
 
 preflight(){
     output "Script de Instalação e Atualização do Pterodactyl."
-	warn "https://github.com/S0S2-DEV"
+	warn "https://github.com/ItsDDev"
     warn ""
     warn "Informações do Script"
 	warn ""
